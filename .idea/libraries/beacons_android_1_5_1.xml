@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="beacons-android-1.5.1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.uriio/beacons-android/1.5.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.uriio/beacons-android/1.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.uriio/beacons-android/1.5.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uriio/beacons-android/1.5.1/a882d5f131dc2d55441231f655c3647b6a18d6a5/beacons-android-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

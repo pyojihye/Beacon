@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_501e37a819798df7dc8a8acac069151f8f1f54ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\org.whispersystems\curve25519-android\0.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7cb944f25f26ffd85c2097cfe23433990047dd6">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.whispersystems-curve25519-android-0.3.0_114b55b97ca27307a829fd13e98d9eb4c9c9aba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_0cf431e598a33639a59aaab7835d100a5ff10a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_67a04c5ef68ef59d9c495c8b936a6e34cdb76edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_827c6ea20ab48d36357127e53b927410e2635fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.9.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.altbeacon-android-beacon-library-2.9.2_cfa33dde621bf43c1d76dc2ee64a6df9c54c6e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_55af6f81742a5ccff74b206cc4c47f667921b6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_a4171d848cdd815190cd31d6e109bc9a91b09e7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_b0bf92b5949aa81fcce5a74c9babae2f76487bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60f4ebc4927fbbd0197206806ad992b573fc8ffb">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21bdf3ec1c1e39d74c88cb0e05d9ae5d70b25edf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_731eb9623f722949bb2bfd946159294009d48556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\org.bitbucket.deverywareiberia\sdk-android\v1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="461f7c8542f591b263aa5a1f8395788a32120e58">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.bitbucket.deverywareiberia-sdk-android-v1.2.0_95a0d0ee1abe550cabf021778eebb1f76a4e86f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\.gradle\caches\modules-2\files-2.1\org.whispersystems\curve25519-java\0.3.0\9091eb56d696d0d0d70d00b84e6037dcd3d98b6\curve25519-java-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09091eb56d696d0d0d70d00b84e6037dcd3d98b6">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\curve25519-java-0.3.0_b0af3989d03bba53bc9dcdd9f914a8b97b565f11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_acd4dd1b7f7c5ca6cae3d7ed8c90871baed6ee79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_dae1d824bf5bc01a87cf3e5674f62cfb6fac0906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_15f5e91dcaba5984f4328df293d225958757eff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_deb967ab4b06134baec9ee0c9561793034efe5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_224dadc23f34d8c892087622c6c2a93d07f94a83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.uriio\beacons-android\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f01c24092cab3da5a79572300b4a5f72af33d3e7">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.uriio-beacons-android-1.5.1_d7f6baac6d6c9c629a32bd3aa6ce1e391ce36082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b52bce7ea8f84f07b219b05da010de25ee938ec9">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eaf07cc1ed8c2b87d911d6e238eae949469a244b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\PYOJIHYE\AndroidStudioProjects\Beacon\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_05b8fd5f1cc853f5c12d6db80d779da39d311afe\classes.dex" />
+    </item>
+
+</items>

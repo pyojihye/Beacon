@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.deveryware.noteaconsdemo">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:name=".Beacon"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true"></service>
+
+        <meta-data android:name="com.deveryware.noteacons.API_KEY" android:value="bd1cZjZcl95WVpzQZqETSe0T6GkSWXTbHVJMj1TW"/>
+        <meta-data android:name="com.deveryware.noteacons.API_SECRET" android:value="AT7Tuinf0HBZfa6mL5RXCKddc5uAtMxaCKAxXapfusd8ZQCPwoPMX63wwF6BNizBwX3VsllIdb2RMznc"/>
+        <meta-data android:name="com.deveryware.noteacons.SERVICE_ENABLED" android:value="true"/>
+        <meta-data android:name="com.deveryware.noteacons.LOG_LEVEL" android:value="info"/>
+    </application>
+</manifest>

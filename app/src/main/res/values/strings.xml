@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Door</string>
+    <string name="app_context">The Door is Open</string>
+    <string name="ble_uuid">cdb7950d-73f1-4d4d-8e47-c090502dbd63</string>
+</resources>
