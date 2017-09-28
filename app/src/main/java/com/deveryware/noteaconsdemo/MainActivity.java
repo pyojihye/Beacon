@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if (myBluetoothAdapter == null) {
                     Toast.makeText(getApplicationContext(), "Bluetooth is not available", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Bluetooth is not available!!", Toast.LENGTH_SHORT).show();
                 } else {
                     blueToothOff();
                 }
